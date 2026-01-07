@@ -1,0 +1,52 @@
+[
+    {
+        "cidade_id":"VCP",
+        "nome":"Locadora A VCP",
+        "custo_diaria":100
+    },
+    {
+        "cidade_id":"GRU",
+        "nome":"Locadora B GRU",
+        "custo_diaria":110
+    },
+    {
+        "cidade_id":"CGH",
+        "nome":"Locadora C CGH",
+        "custo_diaria":120
+    },
+    {
+        "cidade_id":"GIG",
+        "nome":"Locadora D GIG",
+        "custo_diaria":130
+    },
+    {
+        "cidade_id":"SDU",
+        "nome":"Locadora E SDU",
+        "custo_diaria":140
+    },
+    {
+        "cidade_id":"CNF",
+        "nome":"Locadora F CNF",
+        "custo_diaria":150
+    },
+    {
+        "cidade_id":"MIA",
+        "nome":"Locadora MIA 1",
+        "custo_diaria":90
+    },
+    {
+        "cidade_id":"ATL",
+        "nome":"Locadora ATL 1",
+        "custo_diaria":85
+    },
+    {
+        "cidade_id":"ORL",
+        "nome":"Locadora ORL 1",
+        "custo_diaria":80
+    },
+    {
+        "cidade_id":"NYS",
+        "nome":"Locadora NYS 1",
+        "custo_diaria":95
+    }
+]

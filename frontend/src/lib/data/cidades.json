@@ -1,0 +1,79 @@
+[
+    {
+        "id": "VCP",
+        "nome": "Campinas (VCP)",
+        "lat": -23.0,
+        "lon": -47.13,
+        "tipo": "Origem"
+    },
+    {
+        "id": "GRU",
+        "nome": "Sao Paulo (GRU)",
+        "lat": -23.43,
+        "lon": -46.47,
+        "tipo": "Prox_Origem"
+    },
+    {
+        "id": "CGH",
+        "nome": "Sao Paulo (CGH)",
+        "lat": -23.62,
+        "lon": -46.65,
+        "tipo": "Prox_Origem"
+    },
+    {
+        "id": "GIG",
+        "nome": "Rio de Janeiro (GIG)",
+        "lat": -22.81,
+        "lon": -43.24,
+        "tipo": "Destino"
+    },
+    {
+        "id": "SDU",
+        "nome": "Rio de Janeiro (SDU)",
+        "lat": -22.91,
+        "lon": -43.16,
+        "tipo": "Prox_Destino"
+    },
+    {
+        "id": "CNF",
+        "nome": "Belo Horizonte (CNF)",
+        "lat": -19.63,
+        "lon": -43.97,
+        "tipo": "Prox_Destino"
+    },
+    {
+        "id": "GYN",
+        "nome": "Goiânia (GYN)",
+        "lat": -16.63,
+        "lon": -49.21,
+        "tipo": "Origem"
+    },
+    {
+        "id": "MIA",
+        "nome": "Miami (MIA)",
+        "lat": 25.79,
+        "lon": -80.28,
+        "tipo": "Destino"
+    },
+    {
+        "id": "ATL",
+        "nome": "Atlanta (ATL)",
+        "lat": 33.64,
+        "lon": -84.42,
+        "tipo": "Destino"
+    },
+    {
+        "id": "ORL",
+        "nome": "Orlando (ORL)",
+        "lat": 28.43,
+        "lon": -81.31,
+        "tipo": "Destino"
+    },
+    {
+        "id": "NYS",
+        "nome": "New York (NYS)",
+        "lat": 40.71,
+        "lon": -74.00,
+        "tipo": "Destino"
+    }
+]
